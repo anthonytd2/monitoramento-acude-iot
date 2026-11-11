@@ -1,0 +1,3 @@
+#define WIFI_SSID  "NOME_DA_REDE"
+#define WIFI_SENHA "SENHA_DA_REDE"
+#define CMD_TOKEN  "SEU_TOKEN_AQUI"
